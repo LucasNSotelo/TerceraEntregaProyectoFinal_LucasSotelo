@@ -1,0 +1,21 @@
+.quienesSomos{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    .quienesSomosDesc{
+        cursor: default;
+        text-align: center;
+        width: 50%;
+        font-size: 25px;
+        flex-direction: column;
+        margin:100px;
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Satisfy', cursive;
+        
+    
+    }
+    .quienesSomosDesc h2 {margin:30px 0px 70 ;
+    font-size: 40px;}
+}
+
